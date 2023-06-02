@@ -62,3 +62,6 @@ NOTE: very old version
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
 [PCL Mac Compilation Docs](http://www.pointclouds.org/documentation/tutorials/compiling_pcl_macosx.php)
+
+NOTE : the repo is another version of the PCL project.Whereas the original project is simply a fork in which a local descriptor approach was used.Here in,a clustering based approach is used to detect objects.
+As a course project,my contributions included working on processPointcloud.cpp and processpointcloud.h
